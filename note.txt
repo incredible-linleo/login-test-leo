@@ -1,0 +1,6 @@
+Flask is  web app framework
+- blueprint is a structure for Flask app by grouping its functionality into reusable components
+
+- base template -> the theme of the website
+
+{{ xxx }} -> js expression to insert python code
